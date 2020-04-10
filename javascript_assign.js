@@ -1,5 +1,5 @@
 let id="Ibrahim Ajala";
-let subject=[html,css,js];
+let subject=["html","css","js"];
 
 console.log("My name is: " + id);
 console.log("My courses are: " + subject);
