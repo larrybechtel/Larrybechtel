@@ -1,0 +1,33 @@
+* {
+    padding : 0;
+    margin : 0;
+    box-sizing: border-box;
+}
+body {
+    position : relative;
+    margin: 50px;
+}
+
+.first {
+    margin-top: 20px;
+}
+
+.second {
+    margin-top: 20px;
+    
+}
+.third {
+    margin-top: 20px;
+    
+}
+.fourth {
+    margin-top: 20px;
+   
+}
+.fifth {
+    margin-top: 20px;
+    
+}
+.F5{
+    margin-bottom: 20px;
+}
